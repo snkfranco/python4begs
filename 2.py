@@ -4,7 +4,7 @@ nome = 'Matheus Franco'         # Aqui armazenamos as variáveis
 about = 'Student and Dev'
 age = 20
 _from = 'Brazil'
-email = 'matheusmfranco.mf@gmail.com'
+email = 'xxxxxxxxx@gmail.com'
 
 print(nome, about, age, _from, email)       #Aqui chamamos para que possam ser apresentadas ao usuário
 
